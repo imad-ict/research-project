@@ -49,9 +49,9 @@ Detailed task descriptions for each assistant agent can be found in the `work_di
 
 ## Running the Project
 
-'''bash
+```
 python main.py
-
+```
 ## Contributing
 
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
