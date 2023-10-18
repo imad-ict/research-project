@@ -24,12 +24,10 @@ The project is focused on developing and evaluating object detection algorithms.
 
 - Install the AutoGen framework as per the official [documentation](https://github.com/microsoft/autogen).
 - Install other required libraries: 
-```bash
-
 
 ### Clone the Repository
 
-```bash
+'''bash
 git clone https://github.com/imad-ict/research-project.git
 cd research-project
 
@@ -50,7 +48,7 @@ Detailed task descriptions for each assistant agent can be found in the `work_di
 
 ## Running the Project
 
-```bash
+'''bash
 python main.py
 
 ## Contributing
