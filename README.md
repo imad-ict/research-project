@@ -27,9 +27,10 @@ The project is focused on developing and evaluating object detection algorithms.
 
 ### Clone the Repository
 
-'''bash
+```
 git clone https://github.com/imad-ict/research-project.git
 cd research-project
+```
 
 ## Assistant Agents
 
